@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 36f41aeded95ad347819caf782a5eb8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5633383713651258779
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_0
+  - first:
+      213: 5633372292330470031
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_1
+  - first:
+      213: -4990975829818369381
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_2
+  - first:
+      213: -8396449751487935662
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_3
+  - first:
+      213: 1051912401516108651
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_4
+  - first:
+      213: 970575179139647773
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_5
+  - first:
+      213: -4803262104872057460
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_6
+  - first:
+      213: 866797270203914413
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_7
+  - first:
+      213: -526063175090406629
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_8
+  - first:
+      213: -156832321709222922
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_9
+  - first:
+      213: -2927654562528307372
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_10
+  - first:
+      213: 7355223905233294253
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_11
+  - first:
+      213: -535088068589342654
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_12
+  - first:
+      213: -8590603431555751883
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_13
+  - first:
+      213: 695894812599537254
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_14
+  - first:
+      213: 8776583146651858195
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_15
+  - first:
+      213: 2348655912503399200
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_16
+  - first:
+      213: 1488610669593484086
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_17
+  - first:
+      213: 7060640712245296035
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_18
+  - first:
+      213: -475648958756297537
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_19
+  - first:
+      213: 1999609182517207353
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_20
+  - first:
+      213: -625098800617158787
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_21
+  - first:
+      213: -2387114222808349692
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_22
+  - first:
+      213: 7329486142193362878
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_23
+  - first:
+      213: 5965667178052991766
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_24
+  - first:
+      213: -8456163470286669197
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_25
+  - first:
+      213: 3071140980701293151
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_26
+  - first:
+      213: 4654187129421322704
+    second: PC Computer - Heroes of Might and Magic 3 - Demon_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 824
+        width: 81
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9577aff3accd2e40800000000000000
+      internalID: 5633383713651258779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 824
+        width: 81
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ab2e3c042cd2e40800000000000000
+      internalID: 5633372292330470031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 824
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a9d151ded7cbab0800000000000000
+      internalID: -4990975829818369381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 821
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b0524ff61d97b80800000000000000
+      internalID: -8396449751487935662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 819
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b123381c4299e00800000000000000
+      internalID: 1051912401516108651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_5
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 819
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d190e6cabfc287d00800000000000000
+      internalID: 970575179139647773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_6
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 819
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85810c7092675db0800000000000000
+      internalID: -4803262104872057460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_7
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 819
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da858c6568b770c00800000000000000
+      internalID: 866797270203914413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 93
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b7257545c03b8f0800000000000000
+      internalID: -526063175090406629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 93
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3d83795d1d2ddf0800000000000000
+      internalID: -156832321709222922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 93
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457d27fcfa1ee57d0800000000000000
+      internalID: -2927654562528307372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 93
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da354e21c21031660800000000000000
+      internalID: 7355223905233294253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_12
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 93
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240be249c3cf298f0800000000000000
+      internalID: -535088068589342654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_13
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 0
+        width: 93
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5302ed7a1bb08c880800000000000000
+      internalID: -8590603431555751883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_14
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 0
+        width: 93
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e480225a058a900800000000000000
+      internalID: 695894812599537254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_15
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 0
+        width: 93
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3153ddd1fdfacc970800000000000000
+      internalID: 8776583146651858195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 426
+        width: 73
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023d264db1a189020800000000000000
+      internalID: 2348655912503399200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 426
+        width: 87
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bd9f9548b98a410800000000000000
+      internalID: 1488610669593484086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 426
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abba04a15f6cf160800000000000000
+      internalID: 7060640712245296035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 426
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4eb87cac72669f0800000000000000
+      internalID: -475648958756297537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_20
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 426
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9312c8505f900cb10800000000000000
+      internalID: 1999609182517207353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_21
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 426
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7701b7e3f33357f0800000000000000
+      internalID: -625098800617158787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 141
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404c93703444fded0800000000000000
+      internalID: -2387114222808349692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 141
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7659320d097b560800000000000000
+      internalID: 7329486142193362878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_24
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 141
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b3e04e0be4ac250800000000000000
+      internalID: 5965667178052991766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_25
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 141
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37abdee502ca5aa80800000000000000
+      internalID: -8456163470286669197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_26
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 141
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a68d94372ee9a20800000000000000
+      internalID: 3071140980701293151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Demon_27
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 141
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d95a57098ef69040800000000000000
+      internalID: 4654187129421322704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

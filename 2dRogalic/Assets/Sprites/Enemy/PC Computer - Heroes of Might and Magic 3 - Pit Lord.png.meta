@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 0dd73b789f396174fa4b49b6fb2f6a1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8351060327114629389
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_1
+  - first:
+      213: 5918461956704058371
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_2
+  - first:
+      213: 5606984140040295876
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_0
+  - first:
+      213: 7641641013133919827
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_3
+  - first:
+      213: 529772403752291798
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_4
+  - first:
+      213: 3952321429136623266
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_5
+  - first:
+      213: 1935784712038312109
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_6
+  - first:
+      213: 5750901443354695082
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_7
+  - first:
+      213: 8029633623018989574
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_8
+  - first:
+      213: 2573499098364609839
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_9
+  - first:
+      213: 5491536284157971829
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_10
+  - first:
+      213: 935251681309488389
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_11
+  - first:
+      213: -6941398450613677157
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_12
+  - first:
+      213: 496902846549885482
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_13
+  - first:
+      213: -1953058615957508308
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_14
+  - first:
+      213: 4584997619980625063
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_15
+  - first:
+      213: 3158776091824263156
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_16
+  - first:
+      213: -3250139488033137869
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_17
+  - first:
+      213: 748665215400635379
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_18
+  - first:
+      213: 3689656750514448575
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_19
+  - first:
+      213: -498204967720839558
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_20
+  - first:
+      213: -5568594713816784629
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_21
+  - first:
+      213: 5731251487069774196
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_22
+  - first:
+      213: -8012608357062687972
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_23
+  - first:
+      213: 6819376139983819321
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_24
+  - first:
+      213: 7914142056388930062
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_25
+  - first:
+      213: 2486859220703214787
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_26
+  - first:
+      213: 7095551617750731280
+    second: PC Computer - Heroes of Might and Magic 3 - Pit Lord_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 586
+        width: 83
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0166872f1de4e370800000000000000
+      internalID: 8351060327114629389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 586
+        width: 83
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c3202dac9922250800000000000000
+      internalID: 5918461956704058371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_0
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 586
+        width: 83
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5d9584e5200dd40800000000000000
+      internalID: 5606984140040295876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 586
+        width: 83
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35647e8a3009c0a60800000000000000
+      internalID: 7641641013133919827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 586
+        width: 83
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddc571c1312a5700800000000000000
+      internalID: 529772403752291798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 586
+        width: 83
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a64ad5466779d630800000000000000
+      internalID: 3952321429136623266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_6
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 586
+        width: 83
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8ecaa70f94dda10800000000000000
+      internalID: 1935784712038312109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_7
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 586
+        width: 83
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa51075a46e4fcf40800000000000000
+      internalID: 5750901443354695082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 8
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6086490cc3dfe6f60800000000000000
+      internalID: 8029633623018989574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 8
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f258fc38bc7e6b320800000000000000
+      internalID: 2573499098364609839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 8
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d8760b72bd53c40800000000000000
+      internalID: 5491536284157971829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 8
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505f900f27eaafc00800000000000000
+      internalID: 935251681309488389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_12
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 8
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9399b2e2e23baf90800000000000000
+      internalID: -6941398450613677157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_13
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 8
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a228c78918a55e600800000000000000
+      internalID: 496902846549885482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 918
+        width: 90
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f265a598755e4e0800000000000000
+      internalID: -1953058615957508308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 918
+        width: 90
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4e4f20b0f21af30800000000000000
+      internalID: 4584997619980625063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 918
+        width: 95
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff8e2e9e1a36db20800000000000000
+      internalID: 3158776091824263156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 918
+        width: 111
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b90590b5f25e2d0800000000000000
+      internalID: -3250139488033137869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_18
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 918
+        width: 120
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb65abfb0bc36a00800000000000000
+      internalID: 748665215400635379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_19
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 918
+        width: 120
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb82985144b443330800000000000000
+      internalID: 3689656750514448575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_20
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 918
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a761aa1b8350619f0800000000000000
+      internalID: -498204967720839558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_21
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 918
+        width: 97
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0125d88c9068b2b0800000000000000
+      internalID: -5568594713816784629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 340
+        width: 87
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471293dacde798f40800000000000000
+      internalID: 5731251487069774196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 340
+        width: 87
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13c3f0e62f7dc090800000000000000
+      internalID: -8012608357062687972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_24
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 341
+        width: 95
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932928df77a43ae50800000000000000
+      internalID: 6819376139983819321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_25
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 341
+        width: 95
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aaa05f44ea4dd60800000000000000
+      internalID: 7914142056388930062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_26
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 341
+        width: 95
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc7b680949138220800000000000000
+      internalID: 2486859220703214787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Pit Lord_27
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 341
+        width: 95
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a0b7d3a96787260800000000000000
+      internalID: 7095551617750731280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: cda867c292902f94b98bd0da973e90e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4205123278337482416
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_0
+  - first:
+      213: 4810961626833177497
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_1
+  - first:
+      213: -8731075954550751210
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_2
+  - first:
+      213: 201665798971983408
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_3
+  - first:
+      213: -4025349091989707682
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_4
+  - first:
+      213: -189069322218649089
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_5
+  - first:
+      213: -7026791803172143873
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_6
+  - first:
+      213: 7684454764740025402
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_7
+  - first:
+      213: -4191388112275404339
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_8
+  - first:
+      213: 2013665378471819772
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_9
+  - first:
+      213: 3756824047846685514
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_10
+  - first:
+      213: -3268785678544913808
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_11
+  - first:
+      213: 3424804845825641413
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_12
+  - first:
+      213: -5371561481103077824
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_13
+  - first:
+      213: -8011012432368588145
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_14
+  - first:
+      213: -3125554973028219869
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_15
+  - first:
+      213: 5249941580068462642
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_16
+  - first:
+      213: -6638093836502691949
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_17
+  - first:
+      213: 4358592926713367404
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_18
+  - first:
+      213: 3534949205971453362
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_19
+  - first:
+      213: 6098419172261569480
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_20
+  - first:
+      213: -5947889946400784276
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_21
+  - first:
+      213: 7030834268399656622
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_22
+  - first:
+      213: 7370386708345194155
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_23
+  - first:
+      213: -6221851215893388684
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_24
+  - first:
+      213: 1773557800501654389
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_25
+  - first:
+      213: 8966268358972114404
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_26
+  - first:
+      213: -7821917340518969223
+    second: PC Computer - Heroes of Might and Magic 3 - Wraith_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 118
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be180a87599b5a30800000000000000
+      internalID: 4205123278337482416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 118
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b4d6b2c18f3c240800000000000000
+      internalID: 4810961626833177497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 118
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6104c06bdacf4d680800000000000000
+      internalID: -8731075954550751210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 118
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0360217c9f57cc200800000000000000
+      internalID: 201665798971983408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 118
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54230bf3561328c0800000000000000
+      internalID: -4025349091989707682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 118
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9cb33047a406df0800000000000000
+      internalID: -189069322218649089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 118
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc3c45a512db7e90800000000000000
+      internalID: -7026791803172143873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_7
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 118
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c13e005eaa4aa60800000000000000
+      internalID: 7684454764740025402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_8
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 118
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9870408b235d5c0800000000000000
+      internalID: -4191388112275404339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 404
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9b05c2ef9f1fb10800000000000000
+      internalID: 2013665378471819772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 404
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bfb87219be22430800000000000000
+      internalID: 3756824047846685514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 404
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a327f7eb0f2a2d0800000000000000
+      internalID: -3268785678544913808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 404
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb4974acd9578f20800000000000000
+      internalID: 3424804845825641413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 404
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e0eadea416475b0800000000000000
+      internalID: -5371561481103077824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_14
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 404
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aae6d03aa23d090800000000000000
+      internalID: -8011012432368588145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 670
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32482badf4ccf94d0800000000000000
+      internalID: -3125554973028219869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 670
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230a88b3d0a8bd840800000000000000
+      internalID: 5249941580068462642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_17
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 670
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f0c8963d0c0e3a0800000000000000
+      internalID: -6638093836502691949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_18
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 670
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bc74d8c25dc7c30800000000000000
+      internalID: 4358592926713367404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_19
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 670
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b54af8e299ae0130800000000000000
+      internalID: 3534949205971453362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_20
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 670
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c325162defe1a450800000000000000
+      internalID: 6098419172261569480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_21
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 670
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c600aa56b99d47da0800000000000000
+      internalID: -5947889946400784276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 254
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeda92248a829160800000000000000
+      internalID: 7030834268399656622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 254
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba60d2849afd84660800000000000000
+      internalID: 7370386708345194155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 254
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472a75fa84b87a9a0800000000000000
+      internalID: -6221851215893388684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_25
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 254
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573368f3c61fc9810800000000000000
+      internalID: 1773557800501654389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_26
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 254
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e58b5131959e6c70800000000000000
+      internalID: 8966268358972114404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wraith_27
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 254
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97016effe97f27390800000000000000
+      internalID: -7821917340518969223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

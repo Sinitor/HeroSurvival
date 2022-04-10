@@ -1,0 +1,1695 @@
+fileFormatVersion: 2
+guid: 0ea66ee417199fb40ad821f2fd2134a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5545727258304867004
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_0
+  - first:
+      213: -4053579147674187177
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_1
+  - first:
+      213: -2253842408250646491
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_2
+  - first:
+      213: -5008216929117710082
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_3
+  - first:
+      213: 371388189957671978
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_4
+  - first:
+      213: 7565357170147360299
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_5
+  - first:
+      213: 4711701868787584501
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_6
+  - first:
+      213: -2682746576489123429
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_7
+  - first:
+      213: 7328113708517064214
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_8
+  - first:
+      213: -7573532471828664581
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_9
+  - first:
+      213: 3078907244480872451
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_10
+  - first:
+      213: -7293134059137757747
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_11
+  - first:
+      213: 6542541833980072652
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_12
+  - first:
+      213: -4404989833507723453
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_13
+  - first:
+      213: 8335345218408726388
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_14
+  - first:
+      213: -2836155675392839991
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_15
+  - first:
+      213: -3898856417644300016
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_16
+  - first:
+      213: 8413988655344618580
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_17
+  - first:
+      213: 4279344643263419451
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_18
+  - first:
+      213: -1115896435527495705
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_19
+  - first:
+      213: 3587616609210019204
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_20
+  - first:
+      213: 177874101970631323
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_30
+  - first:
+      213: -5568724262217118394
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_31
+  - first:
+      213: 8892876123749030638
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_32
+  - first:
+      213: -1525498987319917359
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_33
+  - first:
+      213: -54368782101038982
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_34
+  - first:
+      213: 1814153134380706777
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_69
+  - first:
+      213: -2208294174080934742
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_70
+  - first:
+      213: 5925202194312282773
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_71
+  - first:
+      213: 7790930670527470067
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_72
+  - first:
+      213: -2878709677929525086
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_73
+  - first:
+      213: -1299925485683783053
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_74
+  - first:
+      213: -5484064739874543283
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_75
+  - first:
+      213: 8306078017440847060
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_76
+  - first:
+      213: -466700501996319282
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_77
+  - first:
+      213: -2916057110675881107
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_78
+  - first:
+      213: -1307638312018223211
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_79
+  - first:
+      213: 979470084183132777
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_80
+  - first:
+      213: 9095888919295552957
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_81
+  - first:
+      213: -7004590613449796699
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_82
+  - first:
+      213: 2877359122714993
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_83
+  - first:
+      213: 5546026866662308869
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_84
+  - first:
+      213: 3734397841088078172
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_85
+  - first:
+      213: 1711397950633219229
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_86
+  - first:
+      213: 7937956595237307295
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_87
+  - first:
+      213: -4251629450922312366
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_88
+  - first:
+      213: 3889963719003649560
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_89
+  - first:
+      213: -2981057529316172021
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_90
+  - first:
+      213: 1948578025663292928
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_91
+  - first:
+      213: -2603120730752262627
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_93
+  - first:
+      213: -3939254234416275839
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_94
+  - first:
+      213: 171457413024826929
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_95
+  - first:
+      213: -989919161603664092
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_96
+  - first:
+      213: -3228769464820059261
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_97
+  - first:
+      213: 4827258240091559739
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_98
+  - first:
+      213: 678642853887039894
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_99
+  - first:
+      213: -6892750116224351227
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_100
+  - first:
+      213: 8414076843239201265
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_102
+  - first:
+      213: -4410537067634989874
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_103
+  - first:
+      213: 181670477618149593
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_104
+  - first:
+      213: -6224720693157606697
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_106
+  - first:
+      213: -644821258270106773
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_107
+  - first:
+      213: -8810614055753080116
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_108
+  - first:
+      213: -7885085919039897389
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_109
+  - first:
+      213: 4894174397212999868
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_110
+  - first:
+      213: -2404378670149337695
+    second: PC Computer - Heroes of Might and Magic 3 - Skeleton_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1117
+        width: 52
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba66741f8166fc40800000000000000
+      internalID: 5545727258304867004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1117
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a03f1fd3bceb7c0800000000000000
+      internalID: -4053579147674187177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1117
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5206284654eb8b0e0800000000000000
+      internalID: -2253842408250646491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1117
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef857d5dc3d3f7ab0800000000000000
+      internalID: -5008216929117710082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1117
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cc330579f672500800000000000000
+      internalID: 371388189957671978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1117
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e7695634c8df860800000000000000
+      internalID: 7565357170147360299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_6
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1117
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdc0a0d2e3536140800000000000000
+      internalID: 4711701868787584501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_7
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1117
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9178f5d338f4cad0800000000000000
+      internalID: -2682746576489123429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_8
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1121
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e74d58790b2b560800000000000000
+      internalID: 7328113708517064214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1006
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe24c9d75865e690800000000000000
+      internalID: -7573532471828664581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1006
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300c8ab73d97aba20800000000000000
+      internalID: 3078907244480872451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1005
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd8ac1c63599ca90800000000000000
+      internalID: -7293134059137757747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1005
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2d3865227cbca50800000000000000
+      internalID: 6542541833980072652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_13
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1007
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347a096c5155ed2c0800000000000000
+      internalID: -4404989833507723453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_14
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1004
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fb08740581da370800000000000000
+      internalID: 8335345218408726388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 887
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce60889073f3a8d0800000000000000
+      internalID: -2836155675392839991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 886
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0193f04ceba74e9c0800000000000000
+      internalID: -3898856417644300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 888
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c8bf15a1e74c470800000000000000
+      internalID: 8413988655344618580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_18
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 890
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34df25b749436b30800000000000000
+      internalID: 4279344643263419451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_19
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 889
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef424aaa1a8380f0800000000000000
+      internalID: -1115896435527495705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_20
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 889
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d214e4c46c9c130800000000000000
+      internalID: 3587616609210019204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_30
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 731
+        width: 35
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a73b6ad8fe77200800000000000000
+      internalID: 177874101970631323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_31
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 731
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d0372b9cae7b2b0800000000000000
+      internalID: -5568724262217118394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_32
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 731
+        width: 71
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea1d93d7b7d96b70800000000000000
+      internalID: 8892876123749030638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_33
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 731
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d40493e0c654dae0800000000000000
+      internalID: -1525498987319917359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_34
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 731
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a783ff771e7de3ff0800000000000000
+      internalID: -54368782101038982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_69
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 756
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db6ce6f9aa2d2910800000000000000
+      internalID: 1814153134380706777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 607
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac575216209a51e0800000000000000
+      internalID: -2208294174080934742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_71
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 607
+        width: 73
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592495ea00c8a3250800000000000000
+      internalID: 5925202194312282773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_72
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 607
+        width: 85
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f95c7eaa22fe1c60800000000000000
+      internalID: 7790930670527470067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_73
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 604
+        width: 105
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0188bccc4cc08d0800000000000000
+      internalID: -2878709677929525086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_74
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 604
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a475778acb5fde0800000000000000
+      internalID: -1299925485683783053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_76
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 604
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d41e3a03fd154370800000000000000
+      internalID: 8306078017440847060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_77
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 606
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd430abd52f589f0800000000000000
+      internalID: -466700501996319282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_78
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 605
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63896df1851887d0800000000000000
+      internalID: -2916057110675881107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_79
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 486
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f567522e55adde0800000000000000
+      internalID: -1307638312018223211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_80
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 486
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a8bd32ad6c79d00800000000000000
+      internalID: 979470084183132777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_81
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 486
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbde50fa7c61b3e70800000000000000
+      internalID: 9095888919295552957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_82
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 486
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a31a40f2f1bace90800000000000000
+      internalID: -7004590613449796699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_83
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 486
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171966061f83a0000800000000000000
+      internalID: 2877359122714993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_84
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 458
+        width: 67
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cfd261d0277fc40800000000000000
+      internalID: 5546026866662308869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_85
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 444
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c516a000d0f33d330800000000000000
+      internalID: 3734397841088078172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_86
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 452
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9413d46e5b10c710800000000000000
+      internalID: 1711397950633219229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_87
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 456
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93c69d5779492e60800000000000000
+      internalID: 7937956595237307295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_88
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 456
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dbf2d5a8d2ff4c0800000000000000
+      internalID: -4251629450922312366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_89
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 454
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816be5c746debf530800000000000000
+      internalID: 3889963719003649560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_90
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 305
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f1b1ea8f721a6d0800000000000000
+      internalID: -2981057529316172021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_91
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 305
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006eacce36dba0b10800000000000000
+      internalID: 1948578025663292928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_93
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 305
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e5e00cc7bdfdbd0800000000000000
+      internalID: -2603120730752262627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_94
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 305
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e1aa51525f459c0800000000000000
+      internalID: -3939254234416275839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 305
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136c375db93216200800000000000000
+      internalID: 171457413024826929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_96
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 305
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427d24074c91342f0800000000000000
+      internalID: -989919161603664092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_97
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 305
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383b5cb474b1133d0800000000000000
+      internalID: -3228769464820059261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_98
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 305
+        width: 38
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b371cbf1bcdddf240800000000000000
+      internalID: 4827258240091559739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_99
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 154
+        width: 61
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6995b4b74160b6900800000000000000
+      internalID: 678642853887039894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_100
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 155
+        width: 46
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5044ae4e9480850a0800000000000000
+      internalID: -6892750116224351227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_102
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 156
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9dc1a2f4ec4c470800000000000000
+      internalID: 8414076843239201265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_103
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 149
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec46ceea7ef9ac2c0800000000000000
+      internalID: -4410537067634989874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_104
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 156
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8fa9c365c658200800000000000000
+      internalID: 181670477618149593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_106
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 158
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da415272895d99a0800000000000000
+      internalID: -6224720693157606697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_107
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 6
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b90356b722d07f0800000000000000
+      internalID: -644821258270106773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_108
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 6
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc226c962396ab580800000000000000
+      internalID: -8810614055753080116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_109
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 6
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d04134322c829290800000000000000
+      internalID: -7885085919039897389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_110
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 6
+        width: 36
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb041be0fa99be340800000000000000
+      internalID: 4894174397212999868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Skeleton_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 806
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adf834a65ee1aed0800000000000000
+      internalID: -2404378670149337695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

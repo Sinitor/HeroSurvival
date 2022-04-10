@@ -1,0 +1,900 @@
+fileFormatVersion: 2
+guid: 8b18efe818fc64948979f4e80cd66f03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6258760075816914656
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_0
+  - first:
+      213: -3512617824963476108
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_1
+  - first:
+      213: 5089711786965141699
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_2
+  - first:
+      213: 4635771849685503429
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_3
+  - first:
+      213: 7516378648015583836
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_4
+  - first:
+      213: 3733488814418820171
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_5
+  - first:
+      213: 571342722421462100
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_6
+  - first:
+      213: -2397537141140178101
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_7
+  - first:
+      213: -8799390298115822882
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_9
+  - first:
+      213: 8348858381990640811
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_8
+  - first:
+      213: 1396494443845285020
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_10
+  - first:
+      213: 2670728369898110701
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_11
+  - first:
+      213: -8832490852428578979
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_12
+  - first:
+      213: 5313771041903455763
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_13
+  - first:
+      213: -5881439847957786811
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_14
+  - first:
+      213: -1015555696805395422
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_15
+  - first:
+      213: -2661269111831591903
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_16
+  - first:
+      213: -7559408466960725453
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_17
+  - first:
+      213: -44357998310974062
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_18
+  - first:
+      213: -5185457372827283301
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_19
+  - first:
+      213: -7007508295747267903
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_20
+  - first:
+      213: 2593391689452861655
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_21
+  - first:
+      213: 8884394602359385640
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_22
+  - first:
+      213: 3938541440412775545
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_23
+  - first:
+      213: -1822717987223297807
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_24
+  - first:
+      213: 4415279313131690742
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_25
+  - first:
+      213: -4469330283238591885
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_26
+  - first:
+      213: -8307887203868497013
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_27
+  - first:
+      213: 2685021352133359131
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_28
+  - first:
+      213: 8717618647729426368
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_29
+  - first:
+      213: 5797092160977092483
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_30
+  - first:
+      213: -1937337787855351222
+    second: PC Computer - Heroes of Might and Magic 3 - Mummy_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1061
+        width: 68
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02139821fda6429a0800000000000000
+      internalID: -6258760075816914656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1061
+        width: 68
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475c857e2bca04fc0800000000000000
+      internalID: -3512617824963476108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1061
+        width: 68
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c80d2f57e942a640800000000000000
+      internalID: 5089711786965141699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1061
+        width: 68
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd82489fe1955040800000000000000
+      internalID: 4635771849685503429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_4
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1061
+        width: 68
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5abc409e8a8f4860800000000000000
+      internalID: 7516378648015583836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_5
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1061
+        width: 68
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cf35cbb4400d330800000000000000
+      internalID: 3733488814418820171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_6
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1061
+        width: 68
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4549feecd21dde700800000000000000
+      internalID: 571342722421462100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_7
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1061
+        width: 68
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bb88e3cac3abed0800000000000000
+      internalID: -2397537141140178101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 616
+        width: 104
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaa9c0252942e580800000000000000
+      internalID: -8799390298115822882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 616
+        width: 104
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac389ad67a1dd370800000000000000
+      internalID: 8348858381990640811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 616
+        width: 104
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9474383c48516310800000000000000
+      internalID: 1396494443845285020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 616
+        width: 104
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeb5536d45501520800000000000000
+      internalID: 2670728369898110701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 616
+        width: 104
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f7b13cd50bc6580800000000000000
+      internalID: -8832490852428578979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_13
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 616
+        width: 104
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ea96aeb9e4eb940800000000000000
+      internalID: 5313771041903455763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_14
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 616
+        width: 104
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f06a69e9de06ea0800000000000000
+      internalID: -5881439847957786811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 306
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2244a42797508e1f0800000000000000
+      internalID: -1015555696805395422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 306
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1240f81c7d5411bd0800000000000000
+      internalID: -2661269111831591903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 306
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ac9befc06971790800000000000000
+      internalID: -7559408466960725453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 306
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d1ab3b2a8626ff0800000000000000
+      internalID: -44357998310974062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_19
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 306
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9013be3efd8908b0800000000000000
+      internalID: -5185457372827283301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_20
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 306
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c29167155450ce90800000000000000
+      internalID: -7007508295747267903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_21
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 306
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8b94d40049df320800000000000000
+      internalID: 2593391689452861655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 153
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e670eb1d5bb4b70800000000000000
+      internalID: 8884394602359385640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 153
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97475f0a29288a630800000000000000
+      internalID: 3938541440412775545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 153
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f027d5d5a764b6e0800000000000000
+      internalID: -1822717987223297807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_25
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 153
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa58536429364d30800000000000000
+      internalID: 4415279313131690742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_26
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 153
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372faa379cfb9f1c0800000000000000
+      internalID: -4469330283238591885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_27
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 153
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ba76bea9474bc80800000000000000
+      internalID: -8307887203868497013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_28
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 153
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b167f34a1bc134520800000000000000
+      internalID: 2685021352133359131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_29
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 153
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfcb31e8f33bf870800000000000000
+      internalID: 8717618647729426368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_30
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 153
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fbd392b98637050800000000000000
+      internalID: 5797092160977092483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Mummy_31
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 153
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42d0f0eb813d15e0800000000000000
+      internalID: -1937337787855351222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

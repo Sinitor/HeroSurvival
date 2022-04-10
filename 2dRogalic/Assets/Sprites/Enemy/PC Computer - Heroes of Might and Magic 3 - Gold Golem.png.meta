@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: e229866e46012534798bdaa832c8f7c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8507132400966970197
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_0
+  - first:
+      213: 1556355012412917993
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_1
+  - first:
+      213: -454868661595939204
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_2
+  - first:
+      213: -1915566471096601254
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_3
+  - first:
+      213: 8092019479051968674
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_4
+  - first:
+      213: -332402233158402571
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_5
+  - first:
+      213: -5688008476334490271
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_6
+  - first:
+      213: -7691732821749186444
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_7
+  - first:
+      213: 3277053384328211264
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_8
+  - first:
+      213: -1472536958932701852
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_9
+  - first:
+      213: 7308156501009811690
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_10
+  - first:
+      213: 2974897652002268671
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_11
+  - first:
+      213: 374523579274424824
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_12
+  - first:
+      213: -8008368491884284771
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_13
+  - first:
+      213: -145061210095446749
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_14
+  - first:
+      213: -7863173142225191498
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_15
+  - first:
+      213: -2929625860526584466
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_16
+  - first:
+      213: -7468418029141228542
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_17
+  - first:
+      213: 6160038094082818237
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_18
+  - first:
+      213: -6680387315562030472
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_19
+  - first:
+      213: -5552750452799317470
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_20
+  - first:
+      213: -3505799488547334881
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_21
+  - first:
+      213: 3588172581441517941
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_22
+  - first:
+      213: -71461463892796563
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_23
+  - first:
+      213: -6789691939738548874
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_24
+  - first:
+      213: 3834651773312801074
+    second: PC Computer - Heroes of Might and Magic 3 - Gold Golem_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1152
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b2ad098d76f0670800000000000000
+      internalID: 8507132400966970197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1152
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8454b43a8499510800000000000000
+      internalID: 1556355012412917993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1152
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7edd1ebc5bffa9f0800000000000000
+      internalID: -454868661595939204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1152
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5573a2917a8a65e0800000000000000
+      internalID: -1915566471096601254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1152
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a02f64c7d0ac4070800000000000000
+      internalID: 8092019479051968674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_5
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1152
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdfb0a1ee1136bf0800000000000000
+      internalID: -332402233158402571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 103
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dfba85d622011b0800000000000000
+      internalID: -5688008476334490271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 103
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4704d6c40c9714590800000000000000
+      internalID: -7691732821749186444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 103
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04befd2c0be6a7d20800000000000000
+      internalID: 3277053384328211264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 103
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dae2c007f709be0800000000000000
+      internalID: -1472536958932701852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 103
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8c6ad0e99cb6560800000000000000
+      internalID: 7308156501009811690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_11
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 103
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff52dbe17a5f84920800000000000000
+      internalID: 2974897652002268671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_12
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 103
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1f8a60633923500800000000000000
+      internalID: 374523579274424824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1306
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d947eca694f8cd090800000000000000
+      internalID: -8008368491884284771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 623
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32592951993acfdf0800000000000000
+      internalID: -145061210095446749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 623
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd764220b560e290800000000000000
+      internalID: -7863173142225191498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 623
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dc38a3dc0e757d0800000000000000
+      internalID: -2929625860526584466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_17
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 623
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2040ae23f59da5890800000000000000
+      internalID: -7468418029141228542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 623
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db04ea0620adc7550800000000000000
+      internalID: 6160038094082818237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_19
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 623
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a56e5712f7a43a0800000000000000
+      internalID: -6680387315562030472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 369
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ad18602eaa0f2b0800000000000000
+      internalID: -5552750452799317470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 369
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15d36f80f5e85fc0800000000000000
+      internalID: -3505799488547334881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 369
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5793e9da3ffbbc130800000000000000
+      internalID: 3588172581441517941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_23
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 369
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b5a8d5d2e120ff0800000000000000
+      internalID: -71461463892796563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_24
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 369
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6750d85772b26c1a0800000000000000
+      internalID: -6789691939738548874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Gold Golem_25
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 369
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23991a1987b673530800000000000000
+      internalID: 3834651773312801074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

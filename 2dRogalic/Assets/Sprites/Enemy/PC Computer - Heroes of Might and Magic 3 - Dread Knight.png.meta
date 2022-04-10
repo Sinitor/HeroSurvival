@@ -1,0 +1,849 @@
+fileFormatVersion: 2
+guid: b525b96d4b7772a4e899790a850a40ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5832101948916869162
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_2
+  - first:
+      213: -3539064438587935932
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_1
+  - first:
+      213: 7786156509479499205
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_3
+  - first:
+      213: -2192686281968259393
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_4
+  - first:
+      213: 4340250360597197233
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_5
+  - first:
+      213: 5392101417378959862
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_6
+  - first:
+      213: 2093522993689820599
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_7
+  - first:
+      213: 5997419512599059391
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_8
+  - first:
+      213: -2752847631866962879
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_9
+  - first:
+      213: 7870676046374832886
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_10
+  - first:
+      213: 4608164045707669761
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_11
+  - first:
+      213: 4890215095946845710
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_12
+  - first:
+      213: 4673561162197100147
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_13
+  - first:
+      213: 7396039020054256337
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_14
+  - first:
+      213: 7531412039616272475
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_15
+  - first:
+      213: 3848635137142016515
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_16
+  - first:
+      213: -1142775330824422101
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_17
+  - first:
+      213: 3978509386174728639
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_18
+  - first:
+      213: 5905584198473427631
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_19
+  - first:
+      213: 7955847880445638295
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_20
+  - first:
+      213: 5956807727440293471
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_21
+  - first:
+      213: 4780222755970653466
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_22
+  - first:
+      213: -592583517073678917
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_23
+  - first:
+      213: -5345910293216257004
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_24
+  - first:
+      213: -5032207090582864368
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_25
+  - first:
+      213: 8347664326110872380
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_26
+  - first:
+      213: -4865762713138432512
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_27
+  - first:
+      213: -7776119966322368516
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_28
+  - first:
+      213: -3130583119345864237
+    second: PC Computer - Heroes of Might and Magic 3 - Dread Knight_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 633
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d81a30e8658a8ea0800000000000000
+      internalID: -5869732478839023406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 633
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28ad0f92d9cfe050800000000000000
+      internalID: 5832101948916869162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 633
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443bfb4d4a7b2eec0800000000000000
+      internalID: -3539064438587935932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 633
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5fe11b71cfd0c60800000000000000
+      internalID: 7786156509479499205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_4
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 633
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbee863a1730291e0800000000000000
+      internalID: -2192686281968259393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_5
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 633
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b138a315baab3c30800000000000000
+      internalID: 4340250360597197233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_6
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 633
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1d0c7aba794da40800000000000000
+      internalID: 5392101417378959862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_7
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 633
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd7eff1210bd0d10800000000000000
+      internalID: 2093522993689820599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_8
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 633
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb9671654d1b3350800000000000000
+      internalID: 5997419512599059391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 633
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c5bcdf9abebc9d0800000000000000
+      internalID: -2752847631866962879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_10
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 6
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa095ed9224a3d60800000000000000
+      internalID: 7870676046374832886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_11
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 6
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101f123d8cc73ff30800000000000000
+      internalID: 4608164045707669761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_12
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 6
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e1a2568b88dd340800000000000000
+      internalID: 4890215095946845710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_13
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 6
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376e1dc8d13dbd040800000000000000
+      internalID: 4673561162197100147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_14
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 6
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da13478d4204a660800000000000000
+      internalID: 7396039020054256337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_15
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 6
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b589d6ec853f48860800000000000000
+      internalID: 7531412039616272475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 450
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30acf6b2449196530800000000000000
+      internalID: 3848635137142016515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 450
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d712c24eb0420f0800000000000000
+      internalID: -1142775330824422101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 450
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9808a2531863730800000000000000
+      internalID: 3978509386174728639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 450
+        width: 103
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa2b251a89d4f150800000000000000
+      internalID: 5905584198473427631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_20
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 450
+        width: 134
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796b101de79d86e60800000000000000
+      internalID: 7955847880445638295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_21
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 450
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e616d4115daa250800000000000000
+      internalID: 5956807727440293471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_22
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 450
+        width: 101
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d9ed41543c65240800000000000000
+      internalID: 4780222755970653466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_23
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 450
+        width: 101
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd521d4e68b6c7f0800000000000000
+      internalID: -592583517073678917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 106
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c9db389e28fc5b0800000000000000
+      internalID: -5345910293216257004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_25
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3
+        width: 106
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e3b9910520a2ab0800000000000000
+      internalID: -5032207090582864368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 3
+        width: 100
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c330a0e0a7cd8d370800000000000000
+      internalID: 8347664326110872380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 4
+        width: 106
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006fa02a796597cb0800000000000000
+      internalID: -4865762713138432512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 4
+        width: 106
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff588c171ca51490800000000000000
+      internalID: -7776119966322368516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dread Knight_29
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 4
+        width: 106
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d13e8f4d3fed84d0800000000000000
+      internalID: -3130583119345864237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

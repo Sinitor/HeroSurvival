@@ -1,0 +1,996 @@
+fileFormatVersion: 2
+guid: 026b6b23d8530ec4c952a85ce2bb36b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3802645854756473483
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_0
+  - first:
+      213: -7114574375600733759
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_1
+  - first:
+      213: 2692980250290870342
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_2
+  - first:
+      213: -6122624429578263537
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_3
+  - first:
+      213: 7070013038647814565
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_4
+  - first:
+      213: 7646542070834745689
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_5
+  - first:
+      213: -5161609286993712248
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_6
+  - first:
+      213: 7947201942736749552
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_7
+  - first:
+      213: 6461456878295387955
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_8
+  - first:
+      213: 1205159416681660502
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_9
+  - first:
+      213: -6063077720282165657
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_10
+  - first:
+      213: 8774713647973705695
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_11
+  - first:
+      213: 5020631173137021398
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_12
+  - first:
+      213: 1533775695315780679
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_13
+  - first:
+      213: -2860729457272198362
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_14
+  - first:
+      213: 8199023679107956211
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_15
+  - first:
+      213: -5642731084569702985
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_16
+  - first:
+      213: 623760525072919378
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_17
+  - first:
+      213: 8576095562457596403
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_18
+  - first:
+      213: 9038654516762556546
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_19
+  - first:
+      213: 8715327311714318859
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_20
+  - first:
+      213: 1655911884528643572
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_21
+  - first:
+      213: 5733938801179953838
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_22
+  - first:
+      213: -4229198407055837982
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_23
+  - first:
+      213: 354355007600819268
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_24
+  - first:
+      213: 2353672558909606354
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_25
+  - first:
+      213: -879593060290665726
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_26
+  - first:
+      213: 224572799420082383
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_27
+  - first:
+      213: 3834449943370819508
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_28
+  - first:
+      213: 5777540671804405860
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_29
+  - first:
+      213: -5566106414117107634
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_30
+  - first:
+      213: 4418674060341113489
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_31
+  - first:
+      213: -2643414441998022920
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_32
+  - first:
+      213: 8998302953972279543
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_33
+  - first:
+      213: -2060694938226282707
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_34
+  - first:
+      213: 5844512934430254202
+    second: PC Computer - Heroes of Might and Magic 3 - Power Lich_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1999
+        width: 95
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a0f53f146b5c430800000000000000
+      internalID: 3802645854756473483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1999
+        width: 95
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1c83ecc44f34d90800000000000000
+      internalID: -7114574375600733759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1999
+        width: 95
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648dab505436f5520800000000000000
+      internalID: 2692980250290870342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1999
+        width: 103
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04ebd53581180ba0800000000000000
+      internalID: -6122624429578263537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1826
+        width: 79
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9515f241089fd1a60800000000000000
+      internalID: 7646542070834745689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1826
+        width: 79
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88be16b63b74e58b0800000000000000
+      internalID: -5161609286993712248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1826
+        width: 79
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f34e139f022a4e60800000000000000
+      internalID: 7947201942736749552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_8
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1826
+        width: 79
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f0d4aebc4bba950800000000000000
+      internalID: 6461456878295387955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_9
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1826
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6500701ba1699b010800000000000000
+      internalID: 1205159416681660502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_10
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1826
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e0ffcdfee9bdba0800000000000000
+      internalID: -6063077720282165657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_11
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1826
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7ae39829b06c970800000000000000
+      internalID: 8774713647973705695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_12
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1826
+        width: 72
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9b517937ddca540800000000000000
+      internalID: 5020631173137021398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_13
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1538
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744cc6c5ed0194510800000000000000
+      internalID: 1533775695315780679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 648
+        width: 92
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b6bc427b5ac48d0800000000000000
+      internalID: -2860729457272198362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 648
+        width: 111
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdfe3a8898c8c170800000000000000
+      internalID: 8199023679107956211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_16
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 648
+        width: 111
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd0b2d99fdf0b1b0800000000000000
+      internalID: -5642731084569702985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_17
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 648
+        width: 111
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25be1e984ea08a800800000000000000
+      internalID: 623760525072919378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_18
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 648
+        width: 111
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1c618d979640770800000000000000
+      internalID: 8576095562457596403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_19
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 648
+        width: 111
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288bc17e460cf6d70800000000000000
+      internalID: 9038654516762556546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_20
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 648
+        width: 111
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0afdf3a30013f870800000000000000
+      internalID: 8715327311714318859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 345
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9abfd666bbd1260800000000000000
+      internalID: 7070013038647814565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_21
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 345
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd6da8e51bfaf610800000000000000
+      internalID: 1655911884528643572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 345
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa0920c5fa039f40800000000000000
+      internalID: 5733938801179953838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_23
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 345
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4f9ceb47ede45c0800000000000000
+      internalID: -4229198407055837982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_24
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 345
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c7d60800ceae400800000000000000
+      internalID: 354355007600819268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_25
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 345
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d94467d8bce9a020800000000000000
+      internalID: 2353672558909606354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_26
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 345
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203e97e95ce0bc3f0800000000000000
+      internalID: -879593060290665726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 183
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc826af65c7dd1300800000000000000
+      internalID: 224572799420082383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_28
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 183
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b762af58e3b63530800000000000000
+      internalID: 3834449943370819508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_29
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 183
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468f54a51a2fd2050800000000000000
+      internalID: 5777540671804405860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 494
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48c684f4b731c2b0800000000000000
+      internalID: -5566106414117107634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 494
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1927dd095a8425d30800000000000000
+      internalID: 4418674060341113489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 494
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f602960294b05bd0800000000000000
+      internalID: -2643414441998022920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_33
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 494
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8add09cd460ec70800000000000000
+      internalID: 8998302953972279543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_34
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 494
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fa3982fd0f663e0800000000000000
+      internalID: -2060694938226282707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Power Lich_35
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 494
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7424ed5c81eb1150800000000000000
+      internalID: 5844512934430254202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
